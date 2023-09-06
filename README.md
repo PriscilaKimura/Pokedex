@@ -30,5 +30,5 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
  
-
+https://github.com/PriscilaKimura/Pokedex/assets/141864300/67b41ec5-5e85-4fb7-bbeb-3531bf9eb0c5
 
