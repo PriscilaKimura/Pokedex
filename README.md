@@ -18,7 +18,7 @@
 <li>Uso da fetch API para efetuar as requisições</li>
 <li>Requisição HTTP</li>
 <li>URL como Endereço/Caminho</li>
-<li>Request Methodsque pode ser POST, GET, PUTou DELETE, além de vários outros tipos</li>
+<li>Request Methodsque pode ser POST, GET, PUT ou DELETE, além de vários outros tipos</li>
 <li>Path Params Query Strings</li>
 <li>Request Headersque é o cabeçalho da requisição</li>
 <li>Request Body é o corpo de alguns tipos de requisição</li>
