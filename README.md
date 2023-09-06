@@ -13,14 +13,14 @@
 <li>Os exibe Grid Layout e Flexbox</li>
 <br>
 <ol>JavaScript</ol>
-<li>Função map()para criar uma lista a partir de outra lista de forma eficiente</li>
-<li>Função join()para transformar listas em strings</li>
+<li>Função map( )para criar uma lista a partir de outra lista de forma eficiente</li>
+<li>Função join( )para transformar listas em strings</li>
 <li>Uso da fetch API para efetuar as requisições</li>
 <li>Requisição HTTP</li>
 <li>URL como Endereço/Caminho</li>
-<li>Request Methodsque pode ser POST, GET, PUT ou DELETE, além de vários outros tipos</li>
+<li>Request Method que pode ser POST, GET, PUT ou DELETE, além de vários outros tipos</li>
 <li>Path Params Query Strings</li>
-<li>Request Headersque é o cabeçalho da requisição</li>
+<li>Request Headers é o cabeçalho da requisição</li>
 <li>Request Body é o corpo de alguns tipos de requisição</li>
 <li>Status Code indica o que ocorreu com a requisição</li>
 
