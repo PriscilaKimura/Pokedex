@@ -10,7 +10,7 @@ A aplicação utiliza o protocolo HTTP para fazer solicitações à PokeAPI, uma
 Para obter essas informações, utilizei o protocolo HTTP para fazer requisições à PokeAPI, que é uma API específica para informações relacionadas a Pokémon. As requisições são feitas por meio do método fetch em JavaScript, permitindo que o site acesse os dados da API pokeapi.co.
 
 Em resumo, o projeto consiste em uma aplicação web que permite aos usuários explorar as habilidades dos Pokémon usando a PokeAPI e exibir essas informações em uma interface amigável. É uma atividade prática para aprender e aplicar conceitos de programação JavaScript e integração de APIs web. O desafio para concluir o curso foi criar a segunda tela do Pokedex, exibindo suas habilidades.</p>
-
+<br>
 <ol>CSS</ol>
 <li>A importância do normalize CSS</li>
 <li>O conceito Mobile First</li>
