@@ -4,8 +4,12 @@
 
 :computer:Descrição:
 
-<p>Este projeto faz parte da trilha de Javascript do bootcamp Santander. O desafio para conclusão foi criar a segunda tela do Pokedex, exibindo suas habilidades, o que possibilitou pesquisar mais sobre API,
-  a requisição foi realizada através da fetch API, utilizando uma API pokeapi.co.</p>
+<p>Este projeto envolve a criação de um site que funciona como uma espécie de Pokédex, onde os usuários podem encontrar informações sobre vários Pokémon desde a primeira tela.
+
+A aplicação utiliza o protocolo HTTP para fazer solicitações à PokeAPI, uma API que fornece dados relacionados a Pokémon. Os usuários podem visualizar uma lista de Pokémon na primeira tela, onde provavelmente encontrarão várias informações, como nome, imagem e outros detalhes. Ao clicar em um Pokémon na lista, os usuários podem acessar uma segunda tela ou página que exibirá informações mais detalhadas sobre aquele Pokémon, incluindo suas habilidades e outras características.
+Para obter essas informações, utilizei o protocolo HTTP para fazer requisições à PokeAPI, que é uma API específica para informações relacionadas a Pokémon. As requisições são feitas por meio do método fetch em JavaScript, permitindo que o site acesse os dados da API pokeapi.co.
+
+Em resumo, o projeto consiste em uma aplicação web que permite aos usuários explorar as habilidades dos Pokémon usando a PokeAPI e exibir essas informações em uma interface amigável. É uma atividade prática para aprender e aplicar conceitos de programação JavaScript e integração de APIs web. O desafio para concluir o curso foi criar a segunda tela do Pokedex, exibindo suas habilidades.</p>
 
 <ol>CSS</ol>
 <li>A importância do normalize CSS</li>
