@@ -1,6 +1,6 @@
 <h1>Pokedex</h1> 
 
-<h2>Criando um Projeto com HTML/CSS para Listagem de Pokémon Dominando o Protocolo HTTP e Integrando com a PokeAPI.</h2>
+<h2>Projeto de listagem de Pokémon usando o protocolo HTTP e integrando com a PokeAPI.</h2>
 
 :computer:Descrição:
 
