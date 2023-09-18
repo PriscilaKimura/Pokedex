@@ -1,8 +1,8 @@
-<h1>Pokedex</h1> 
+# Pokedex
 
-<h2>Projeto de listagem de Pokémon usando o protocolo HTTP e integrando com a PokeAPI.</h2>
+<h1>Projeto de listagem de Pokémon usando o protocolo HTTP e integrando com a PokeAPI.</h1>
 
-:computer:Descrição:
+<h2>:computer:Descrição:</h2>
 
 <p>Este projeto envolve a criação de uma aplicação que funciona como uma espécie de Pokédex, onde os usuários podem encontrar informações sobre vários Pokémon desde a primeira tela.
 
@@ -28,11 +28,16 @@ Em resumo, o projeto consiste em uma aplicação web que permite aos usuários e
 <li>Request Body é o corpo de alguns tipos de requisição</li>
 <li>Status Code indica o que ocorreu com a requisição</li>
 
-<h4>Tecnologias usadas: </h4>
+<h3>Tecnologias usadas: </h3>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white"/> 
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 
  
 https://github.com/PriscilaKimura/Pokedex/assets/141864300/67b41ec5-5e85-4fb7-bbeb-3531bf9eb0c5
+
+
+
+
+
 
